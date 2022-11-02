@@ -350,3 +350,6 @@ MigrationBackup/
 
 # Ignore Mac DS_Store files
 .DS_Store
+
+# Ignore Rider idea files
+.idea/
